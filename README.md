@@ -1,6 +1,8 @@
-# test-project
+# Demonstration of Small Edits
 
-> A Vue.js project
+This project is meant to go alongside the [Bootstrapping an App Project](https://shawnr.gitbooks.io/practical-javascript-2-building-applications/bootstrap-new-app/project-bootstrap-an-app.html) from Practical JavaScript 2: Building Webapps. This project demonstrates all of the edits described on the project page from the book.
+
+Please refer to the book for more documentation about what is going on in this repository.
 
 ## Build Setup
 
